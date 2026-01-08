@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "Arun-Kumar-Ravi-4824"
+    organization = "monicasri"
 
     workspaces {
       name = "tf-cloud-s3"
